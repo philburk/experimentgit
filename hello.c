@@ -3,7 +3,7 @@
 
 int main() {
     int x = 7;
-    printf("the answer is %d\n", 6 * x);
+    printf("The answer is %d\n", 6 * x);
     return 0;
 }
 
