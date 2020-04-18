@@ -2,4 +2,6 @@
 
 This is some text.
 
-Check out [another](another.md) file.
+Check out [another.md](another.md) file.
+Check out [another](another) file.
+Check out [another.html](another.html) file.
